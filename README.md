@@ -126,6 +126,6 @@ Adding this edge restores a valid MST.
 
 
 ---
-🧾 Conclusion
+ Conclusion
 
-**This small project helped me understand how an MST changes when an edge is removed. By using Kruskal’s algorithm, DFS, and Union-Find, I was able to rebuild the tree and find the correct replacement edge. The task was simple but useful for practicing basic graph algorithms and organizing a Java program so it runs easily after cloning.**
+**This assignment was about removing an edge from an MST and finding a replacement edge. I implemented the required algorithms, built the MST, removed an edge, checked the components, and added the correct replacement. Everything works as expected, and the program runs right after cloning.**
